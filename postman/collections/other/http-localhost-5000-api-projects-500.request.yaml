@@ -1,0 +1,11 @@
+$kind: http-request
+name: http://localhost:5000/api/projects/500
+description: ""
+url: http://localhost:5000/api/projects/500
+method: DELETE
+body:
+  type: json
+  content: "{\"name\": \"nouvelle Plateforme Securinets\", \"progress\": 10, \"status\":\r
+
+    \"completed\"}\r\n"
+order: 1790183553583
